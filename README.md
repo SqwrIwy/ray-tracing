@@ -1,7 +1,7 @@
 #Whitted-Style Ray Tracing
 
-![WechatIMG123](/Users/sqwriwy/Desktop/大三下/可视计算概论/lab/2/lab-2-0.2/README.assets/WechatIMG123.jpeg)
+![ray-tracing](https://github.com/SqwrIwy/ray-tracing/blob/master/figures/ray-tracing.jpeg)
 
 #Path Tracing
 
-![WechatIMG120](/Users/sqwriwy/Desktop/大三下/可视计算概论/lab/2/lab-2-0.2/README.assets/WechatIMG120.jpeg)
+![path-tracing](https://github.com/SqwrIwy/ray-tracing/blob/master/figures/path-tracing.jpeg)
