@@ -1,0 +1,71 @@
+{
+    tool_target_SoftRender_macosx_x86_64_ld = {
+        toolchain_info = {
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            plat = "macosx",
+            arch = "x86_64",
+            name = "xcode"
+        },
+        toolname = "clangxx",
+        program = "/usr/bin/xcrun -sdk macosx clang++"
+    },
+    xcode_arch_x86_64_plat_macosx = {
+        target_minver = "12.3",
+        plat = "macosx",
+        xcode_sysroot = "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk",
+        xcode = "/Applications/Xcode.app",
+        arch = "x86_64",
+        __global = true,
+        xcode_sdkver = "12.1"
+    },
+    tool_platform_macosx_x86_64_cxx = {
+        toolchain_info = {
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            plat = "macosx",
+            arch = "x86_64",
+            name = "xcode"
+        },
+        toolname = "clang",
+        program = "/usr/bin/xcrun -sdk macosx clang"
+    },
+    tool_platform_macosx_x86_64_cc = {
+        toolchain_info = {
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            plat = "macosx",
+            arch = "x86_64",
+            name = "xcode"
+        },
+        toolname = "clang",
+        program = "/usr/bin/xcrun -sdk macosx clang"
+    },
+    tool_target_SoftRender_macosx_x86_64_cxx = {
+        toolchain_info = {
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            plat = "macosx",
+            arch = "x86_64",
+            name = "xcode"
+        },
+        toolname = "clang",
+        program = "/usr/bin/xcrun -sdk macosx clang"
+    },
+    tool_target_SoftRender_macosx_x86_64_mxx = {
+        toolchain_info = {
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            plat = "macosx",
+            arch = "x86_64",
+            name = "xcode"
+        },
+        toolname = "clang",
+        program = "/usr/bin/xcrun -sdk macosx clang"
+    },
+    tool_platform_macosx_x86_64_ld = {
+        toolchain_info = {
+            cachekey = "xcode_arch_x86_64_plat_macosx",
+            plat = "macosx",
+            arch = "x86_64",
+            name = "xcode"
+        },
+        toolname = "clangxx",
+        program = "/usr/bin/xcrun -sdk macosx clang++"
+    }
+}
